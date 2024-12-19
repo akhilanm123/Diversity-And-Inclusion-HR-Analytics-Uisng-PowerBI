@@ -61,6 +61,6 @@ Gender representation in executive roles over time.
 - The majority of employees fall within the 20-29 and 30-39 age groups.
 - Age diversity is more prominent in junior roles, with older employees predominantly occupying senior roles.
   
-#### Conclusion
+## Conclusion
 The analysis reveals key opportunities to improve gender balance at higher organizational levels, ensure equitable promotion practices, and address potential dissatisfaction among high-performing leavers. By leveraging these insights, organizations can implement targeted diversity and inclusion initiatives to foster a more inclusive workplace.
 
